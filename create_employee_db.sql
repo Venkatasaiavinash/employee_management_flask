@@ -12,6 +12,6 @@ CREATE TABLE Employees (
 );
 GO
 INSERT INTO Employees (FullName, Email, Department, Status) VALUES
-('Avinash', 'venkatasaiavinashsandu@gmail.com', 'IT', 'Active'),
+('Avinash', 'Avinash@email.com', 'IT', 'Active'),
 ('Akash',   'Akash@gmail.com',                  'HR', 'On Boarding');
 GO
