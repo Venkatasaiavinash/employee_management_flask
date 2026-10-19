@@ -1,4 +1,4 @@
-CREATE DATABASE Employeedb;
+kaCREATE DATABASE Employeedb;
 GO
 USE Employeedb;
 GO
@@ -12,6 +12,6 @@ CREATE TABLE Employees (
 );
 GO
 INSERT INTO Employees (FullName, Email, Department, Status) VALUES
-('Avinash', 'Avinash@email.com', 'IT', 'Active'),
+('Avinash', 'venkatasaiavinashsandu@gmail.com', 'IT', 'Active'),
 ('Akash',   'Akash@gmail.com',                  'HR', 'On Boarding');
 GO
